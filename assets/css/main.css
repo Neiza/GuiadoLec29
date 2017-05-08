@@ -66,10 +66,15 @@
 .big{
   height: 365px;
 }
+
 .right{
   float: right;
 }
 
 .grey6{
   background-color: #e1e1e3;
+}
+
+.white{
+  background-color: white;
 }
